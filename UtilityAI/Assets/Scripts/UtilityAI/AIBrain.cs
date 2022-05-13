@@ -1,8 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UAI.Core;
 
-namespace UtilityAI_Core
+
+namespace UAI.UtilityAI
 {
 
     public class AIBrain : MonoBehaviour

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-namespace UtilityAI_Core
+namespace UAI.Core
 { 
 
     public class MoveController : MonoBehaviour
